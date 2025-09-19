@@ -1,0 +1,7 @@
+.venv/
+.env
+The_Constitution_of_Kenya_2010.pdf
+
+.ipynb_checkpoints/
+
+rag_model.ipynb
